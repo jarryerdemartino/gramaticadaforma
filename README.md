@@ -19,7 +19,7 @@
 | **Grupo de Pesquisa** | TIP – Tecnologias Integradas ao Projeto |
 | **Versão** | 1.0.0 |
 | **Ano de Publicação** | 2026 |
-| **DOI** | 10.5281/zenodo.23777623 |
+| **DOI** | 10.5281/zenodo.23777622 |
 | **Registro INPI** | *[em andamento]* |
 | **Repositório** | https://github.com/jarryerdemartino/gramaticadaforma |
 
