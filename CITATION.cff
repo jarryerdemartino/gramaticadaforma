@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "Os usuários desta aplicação são incentivados a citar a ferramenta sempre que ela contribuir direta ou indiretamente para análises, estudos, exercícios didáticos, processos projetuais, pesquisas ou publicações. Referência ABNT (NBR 6023:2018):
 MARTINO, Jarryer Andrade de. LabForma: Gramática da Forma. Versão 1.0. [Software]. Vitória, ES: Universidade Federal do Espírito Santo, Centro de Artes, Departamento de Arquitetura e Urbanismo, Grupo TIP – Tecnologias Integradas ao Projeto, 2026. Disponível em: https://github.com/jarryerdemartino/gramaticadaforma. Acesso em: DIA MÊS ANO.
 A citação no texto deve ser realizado conforme a ABNT (NBR 10520:2023) deve ser: (Martino, 2026) ou Martino (2026)."
