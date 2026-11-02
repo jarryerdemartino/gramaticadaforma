@@ -1,6 +1,6 @@
 # LabFORMA: Gramática da Forma
 
-> **Versão:** 1.0.0  
+> **Versão:** v1.1.0  
 > **Desenvolvimento:** Prof. Dr. Jarryer Andrade de Martino  
 > **Instituição:** Universidade Federal do Espírito Santo (UFES) — Centro de Artes | Departamento de Arquitetura e Urbanismo  
 > **Grupo de Pesquisa:** TIP – Tecnologias Integradas ao Projeto  
@@ -17,7 +17,7 @@
 | **Instituição** | Universidade Federal do Espírito Santo (UFES) |
 | **Centro / Depto.** | Centro de Artes / Departamento de Arquitetura e Urbanismo |
 | **Grupo de Pesquisa** | TIP – Tecnologias Integradas ao Projeto |
-| **Versão** | v1.0.1 |
+| **Versão** | v1.1.0 |
 | **Ano de Publicação** | 2026 |
 | **DOI** | 10.5281/zenodo.23777622 |
 | **Registro INPI** | *[em andamento]* |
@@ -107,7 +107,7 @@ Os usuários desta aplicação são incentivados a citar a ferramenta sempre que
 ### Referência ABNT (NBR 6023:2018):
 
 ```text
-MARTINO, Jarryer Andrade de. LabForma: Gramática da Forma. Versão v1.0.1. [Software]. Vitória, ES: Universidade Federal do Espírito Santo, Centro de Artes, Departamento de Arquitetura e Urbanismo, Grupo TIP – Tecnologias Integradas ao Projeto, 2026. Disponível em: https://github.com/jarryerdemartino/gramaticadaforma. Acesso em: [DIA MÊS ANO].
+MARTINO, Jarryer Andrade de. LabForma: Gramática da Forma. Versão v1.1.0. [Software]. Vitória, ES: Universidade Federal do Espírito Santo, Centro de Artes, Departamento de Arquitetura e Urbanismo, Grupo TIP – Tecnologias Integradas ao Projeto, 2026. Disponível em: https://github.com/jarryerdemartino/gramaticadaforma. Acesso em: [DIA MÊS ANO].
 ```
 
 ### Formas de Citação no Texto ABNT (NBR 10520:2023):
