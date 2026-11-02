@@ -41,8 +41,8 @@ Com a face selecionada, escolha a regra no painel lateral:
 * **Substituição (R06 e R07):** Converte a peça selecionada em outra forma espacial.
 * **Subtração (R08 e R09):** Remove da composição o elemento selecionado.
 
-### 4. Registro Processual Gerativo (Linha do Tempo)
-Na parte inferior encontra-se o **Registro Processual Gerativo**. Ao clicar em qualquer um dos passos, a composição retoma instantaneamente aquele estado específico do histórico.
+### 4. Registro Processual Generativo (Linha do Tempo)
+Na parte inferior encontra-se o **Registro Processual Generativo**. Ao clicar em qualquer um dos passos, a composição retoma instantaneamente aquele estado específico do histórico.
 
 ### 5. Eixos de Coordenadas no Sistema (Configuração Z-Up)
 Nesta interface, o plano do piso é formado pelos eixos X e Y, enquanto o eixo Z representa a altura vertical:
@@ -54,7 +54,7 @@ Nesta interface, o plano do piso é formado pelos eixos X e Y, enquanto o eixo Z
 
 ## 🧠 Conceito Teórico: Gramática da Forma
 
-A **Gramática da Forma** é um sistema formal baseado em regras que opera e calcula diretamente com formas bidimensionais ou tridimensionais, em vez de utilizar apenas símbolos ou palavras (Stiny; Gips, 1971; Knight; Stiny, 2015). Formulada originalmente por analogia às gramáticas linguísticas, ela estabelece uma sintaxe geométrica e um formalismo computacional que substitui a intuição puramente subjetiva por um processo gerativo explícito e rigoroso no design (Stiny; Gips, 1971).
+A **Gramática da Forma** é um sistema formal baseado em regras que opera e calcula diretamente com formas bidimensionais ou tridimensionais, em vez de utilizar apenas símbolos ou palavras (Stiny; Gips, 1971; Knight; Stiny, 2015). Formulada originalmente por analogia às gramáticas linguísticas, ela estabelece uma sintaxe geométrica e um formalismo computacional que substitui a intuição puramente subjetiva por um processo generativo explícito e rigoroso no design (Stiny; Gips, 1971).
 
 Em sua formulação clássica, a Gramática da Forma é definida essencialmente por quatro componentes fundamentais (Stiny; Gips, 1971; Haakonsen; Rønnquist; Labonnote, 2022):
 1. **Vocabulário de formas:** Reúne os elementos primitivos de construção da linguagem.
@@ -68,7 +68,7 @@ A aplicação do sistema ocorre por meio de um processo recursivo de derivação
 
 No campo da arquitetura, destacou-se inicialmente na análise e geração de plantas baixas e fachadas residenciais. Posteriormente, o seu uso expandiu-se para diversas outras áreas como no design de mobiliário, na solução de problemas complexos de arranjo espacial, na otimização de desempenho na engenharia estrutural e no ensino do design por meio da manipulação lógica de blocos geométricos (Stiny; Gips, 1971; Knight, 1980; Stiny, 1980; Hou; Stouffs, 2018).
 
-Atualmente, o método é operacionalizado tanto por meio de softwares e intérpretes computacionais específicos quanto pela integração em plataformas comerciais de modelagem paramétrica e otimização (Haakonsen; Rønnquist; Labonnote, 2022). Paralelamente, desenvolvimentos teóricos mais recentes expandiram o conceito para as "gramáticas do fazer", aproximando a computação gráfica tradicional do engajamento sensorial e da manipulação física direta de materiais no mundo real (Knight; Stiny, 2015).
+Atualmente, o método é operacionalizado tanto por meio de softwares e intérpretes computacionais específicos quanto pela integração em plataformas comerciais de modelagem paramétrica e otimização (Haakonsen; Rønnquist; Labonnote, 2022). Paralelamente, desenvolvimentos teóricos expandiram o conceito para as "gramáticas do fazer", aproximando a computação gráfica tradicional do engajamento sensorial e da manipulação física direta de materiais no mundo real (Knight; Stiny, 2015).
 
 ---
 
